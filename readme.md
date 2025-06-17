@@ -2,7 +2,6 @@
 
 # 🇺🇸 IP Information Lookup Tool 🔍
 
-![IP Lookup Demo](https://i.imgur.com/JQ7w3Pn.png)
 
 ## 📌 Overview
 A Python tool that fetches detailed information about any IP address using the ip-api.com service. Provides geolocation, ISP details, and security information with beautiful console output.
@@ -80,8 +79,6 @@ This tool uses the free [ip-api.com](https://ip-api.com/docs) service. Consider 
 ---
 
 # 🇹🇷 IP Bilgisi Arama Aracı 🔍
-
-![IP Arama Demosu](https://i.imgur.com/JQ7w3Pn.png)
 
 ## 📌 Genel Bakış
 ip-api.com hizmetini kullanarak herhangi bir IP adresi hakkında ayrıntılı bilgi alan bir Python aracı. Güzel konsol çıktısı ile coğrafi konum, ISP ayrıntıları ve güvenlik bilgileri sağlar.
